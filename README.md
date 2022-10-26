@@ -1,23 +1,20 @@
 # Hola, my name is Pau
 ### Freelance Artist
 
-![https://www.artstation.com/uhkyon](https://i.pinimg.com/originals/f4/15/b1/f415b1a3ddeb8a36d8b002cf5d649988.gif)
+[![Totoro](https://i.pinimg.com/originals/f4/15/b1/f415b1a3ddeb8a36d8b002cf5d649988.gif)](https://www.artstation.com/uhkyon)
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCTROEO8NLSTvnWCwTA0s9yg?style=social)](https://www.youtube.com/c/EvilPau?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/UhKyon?style=social)](https://www.twitch.tv/uhkyon)
 [![Twitter Follow](https://img.shields.io/twitter/follow/uhkyon?style=social)](https://twitter.com/uhkyon)
+[![ArtStation Follow](https://img.shields.io/badge/ArtStation-FFFFFF?style=social&logo=artstation&labelColor=E4405F)](https://www.artstation.com/uhkyon)
+[![Instagram Follow](https://img.shields.io/badge/Instagram-FFFFFF?style=social&logo=instagram&labelColor=E4405F)](https://www.instagram.com/uhkyon)
 ![GitHub Followers](https://img.shields.io/github/followers/uhkyon?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/uhkyon?style=social)
 
-I'm a Digital Artist student at [<img src="https://www.cevbarcelona.com/wp-content/uploads/2018/08/logo-h80.png" width=30>](https://www.cevbarcelona.com/)
+I'm a Digital Art student at [<img src="https://www.cevbarcelona.com/wp-content/uploads/2018/08/logo-h80.png" width=30>](https://www.cevbarcelona.com/)
 
-En 2014 dejé mi trabajo en una multinacional y creé [**MoureDev**](https://mouredev.com), el reflejo de mi sueño de crecer como profesional dentro de la industria del desarrollo de software.
-Desde entonces me he dedicado a especializarme en el desarrollo de aplicaciones móviles, colaborando con empresas de diferentes partes del mundo, creando más de 100 Apps y fundando mi propia startup.
 
-En 2018 regreso a mi ciudad natal en Galicia (España), y empiezo a crear contenido de programación y compartir mi experiencia como desarrollador en plataformas como YouTube, Twitch o Udemy. Me gustaría devolver de alguna manera todo el conocimiento que la comunidad ha compartido conmigo de forma gratuita a lo largo de los años.
-
-> 👥 [Microsoft MVP](https://mvp.microsoft.com/es-es/PublicProfile/5004970) (Most Valuable Professional) 2023 in Developer Technologies & Google Developer Groups Lead
-## Tecnologías:
+## Softwares:
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
 [![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
@@ -36,7 +33,6 @@ En 2018 regreso a mi ciudad natal en Galicia (España), y empiezo a crear conten
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
-Y alguna más...
 
 ## Encuéntrame en:
 
