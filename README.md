@@ -23,12 +23,12 @@ I'm a Digital Art student at [<img src="https://www.cevbarcelona.com/wp-content/
 </br>
 [![Maya](https://img.shields.io/badge/Autodesk_Maya-47D5FF?style=for-the-badge&logo=monster&logoColor=white&labelColor=2F98B7)]()
 </br>
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
+[![3DMax](https://img.shields.io/badge/3D_Max-3DDC84?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=101010)]()
 </br>
 [![Blender](https://img.shields.io/badge/Blender-C34D01?style=for-the-badge&logo=blender&logoColor=101010&labelColor=F5792A)]()
 </br>
 
-## Some of my works:
+## My work:
 
 <table style="width:100%">
   <tr>
