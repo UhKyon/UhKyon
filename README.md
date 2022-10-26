@@ -1,14 +1,13 @@
-# Hola, my name is Pau Valles 👋
+# Hola, my name is Pau
 ### Freelance Artist
 
-![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
+![https://www.artstation.com/uhkyon](https://i.pinimg.com/originals/f4/15/b1/f415b1a3ddeb8a36d8b002cf5d649988.gif)
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://www.youtube.com/c/EvilPau?sub_confirmation=1)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCTROEO8NLSTvnWCwTA0s9yg?style=social)](https://www.youtube.com/c/EvilPau?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/UhKyon?style=social)](https://www.twitch.tv/uhkyon)
-[![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://mouredev.com/discord)
-[![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/mouredev)
-![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
-![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/uhkyon?style=social)](https://twitter.com/uhkyon)
+![GitHub Followers](https://img.shields.io/github/followers/uhkyon?style=social)
+![GitHub Followers](https://img.shields.io/github/stars/uhkyon?style=social)
 
 I'm a Digital Artist student at [<img src="https://www.cevbarcelona.com/wp-content/uploads/2018/08/logo-h80.png" width=30>](https://www.cevbarcelona.com/)
 
