@@ -21,9 +21,13 @@ I'm a Digital Art student at [<img src="https://www.cevbarcelona.com/wp-content/
 </br>
 [![After Effects](https://img.shields.io/badge/After_Effects-040492?style=for-the-badge&logo=adobeaftereffects&logoColor=040492&labelColor=9999FF)]()
 </br>
+[![Premiere](https://img.shields.io/badge/Premiere-040492?style=for-the-badge&logo=adobepremierepro&logoColor=040492&labelColor=9999FF)]()
+</br>
+[![ZBrush](https://img.shields.io/badge/ZBrush-000000?style=for-the-badge&logo=zotero&logoColor=101010&labelColor=FFFFFF)]()
+</br>
 [![Maya](https://img.shields.io/badge/Autodesk_Maya-47D5FF?style=for-the-badge&logo=monster&logoColor=white&labelColor=2F98B7)]()
 </br>
-[![3DMax](https://img.shields.io/badge/3D_Max-3DDC84?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=101010)]()
+[![3DMax](https://img.shields.io/badge/3D_Max-0696D7?style=for-the-badge&logo=autodesk&logoColor=blue&labelColor=17526C)]()
 </br>
 [![Blender](https://img.shields.io/badge/Blender-C34D01?style=for-the-badge&logo=blender&logoColor=101010&labelColor=F5792A)]()
 </br>
