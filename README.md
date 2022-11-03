@@ -13,7 +13,7 @@
 ![GitHub Followers](https://img.shields.io/github/followers/uhkyon?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/uhkyon?style=social)
 
-I'm a Digital Art student at [<img src="https://www.cevbarcelona.com/wp-content/uploads/2018/08/logo-h80.png" width=30>](https://www.cevbarcelona.com/)
+I'm a Digital Art student at [<img src="https://www.cevbarcelona.com/wp-content/uploads/2018/08/logo-h80.png" width=50>](https://www.cevbarcelona.com/)
 
 
 ## Softwares:
@@ -37,67 +37,35 @@ I'm a Digital Art student at [<img src="https://www.cevbarcelona.com/wp-content/
 <table style="width:100%">
   <tr>
     <td>
-	<a href="https://youtu.be/MyzZnIR5gC4">
-  		<img src="http://i3.ytimg.com/vi/MyzZnIR5gC4/maxresdefault.jpg">
+	<a href="https://www.artstation.com/artwork/2qoeWv">
+  		<img src="https://cdna.artstation.com/p/assets/images/images/055/684/118/large/uhkyon-si.jpg?1667506220">
+	</a>
+	</td>
+	
+<table style="width:50%">
+ <tr>
+    <td>
+	<a href="https://www.artstation.com/artwork/NGJqOP">
+  		<img src="https://cdnb.artstation.com/p/assets/images/images/048/987/377/large/uhkyon-yvir.jpg?1651431235">
 	</a>
 	</td>
     <td>
-	<a href="https://youtu.be/P6ko_I5GHbs">
-  		<img src="http://i3.ytimg.com/vi/P6ko_I5GHbs/maxresdefault.jpg">
-	</a>
-	</td>
-    <td>
-	<a href="https://youtu.be/hGIzLGgf3Bo">
-  		<img src="http://i3.ytimg.com/vi/hGIzLGgf3Bo/maxresdefault.jpg">
-	</a>
-	</td>
-  </tr>
-  <tr>
-    <td>
-	<a href="https://youtu.be/BQaxPwZWboA">
-  		<img src="http://i3.ytimg.com/vi/BQaxPwZWboA/maxresdefault.jpg">
-	</a>
-	</td>
-	<td>
-	<a href="https://youtu.be/ebQphhLpJG0">
-  		<img src="http://i3.ytimg.com/vi/ebQphhLpJG0/maxresdefault.jpg">
-	</a>
-	</td>
-   <td>
-	<a href="https://youtu.be/X5fjEEmXR2s">
-  		<img src="http://i3.ytimg.com/vi/X5fjEEmXR2s/maxresdefault.jpg">
-	</a>
-	</td>
-  </tr>
-    <tr>
-    <td>
-	<a href="https://youtu.be/1IpkZhkPC_I">
-  		<img src="http://i3.ytimg.com/vi/1IpkZhkPC_I/maxresdefault.jpg">
-	</a>
-	</td>
-	<td>
-	<a href="https://youtu.be/HH7U3tA0S8M">
-  		<img src="http://i3.ytimg.com/vi/HH7U3tA0S8M/maxresdefault.jpg">
-	</a>
-	</td>
-   <td>
-	<a href="https://youtu.be/vhrus08jp6s">
-  		<img src="http://i3.ytimg.com/vi/vhrus08jp6s/maxresdefault.jpg">
-	</a>
-	</td>
+	<a href="https://www.artstation.com/artwork/2qnK6x">
+  		<img src="https://cdna.artstation.com/p/assets/images/images/046/543/010/large/uhkyon-pauvalles.jpg?1645379224">
+
+<td>
+	<a href="https://www.artstation.com/artwork/aGyLaq">
+  		<img src="https://cdna.artstation.com/p/assets/images/images/045/025/398/large/uhkyon-pau-valles.jpg?1641753153">
+	
   </tr>
 </table>
 </table>
 
-#### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
-
-[![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
 
 
-## Contacto y apoyo:
+## Contacto:
 
-[![MyPublicInbox](https://img.shields.io/badge/MyPublicInbox-MENSAJE+CAFÉ_(RESPUESTA_RÁPIDA)_Gracias!-orange?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white&labelColor=101010)](https://mypublicinbox.com/mouredev)
+[![Twitter](https://img.shields.io/badge/Twitter-darkblue?style=for-the-badge&logo=Twitter&logoColor=blue&labelColor=white)](https://twitter.com/UhKyon)
 </br>
-[![Email](https://img.shields.io/badge/braismoure@mouredev.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:braismoure@mouredev.com)
+[![Email](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:pauvm4689@gmail.com)
 </br>
-[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-apoya_mi_trabajo-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/mouredev)
