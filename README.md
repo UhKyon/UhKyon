@@ -65,13 +65,6 @@ I'm a Digital Art student at [<img src="https://www.cevbarcelona.com/wp-content/
   		<img src="https://cdnb.artstation.com/p/assets/images/images/048/987/377/large/uhkyon-yvir.jpg?1651431235">
 	</a>
 	</td>
-    <td>
-	<a href="https://www.artstation.com/artwork/2qnK6x">
-  		<img src="https://cdna.artstation.com/p/assets/images/images/046/543/010/large/uhkyon-pauvalles.jpg?1645379224">
-
-<td>
-	<a href="https://www.artstation.com/artwork/aGyLaq">
-  		<img src="https://cdna.artstation.com/p/assets/images/images/045/025/398/large/uhkyon-pau-valles.jpg?1641753153">
 	
   </tr>
 </table>
