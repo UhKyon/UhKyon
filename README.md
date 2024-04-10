@@ -38,7 +38,7 @@ I'm a Digital Art student at [<img src="https://www.cevbarcelona.com/wp-content/
   <tr>
     <td>
 	<a href="https://www.artstation.com/artwork/KeR8YR">
-  		<img src="https://cdna.artstation.com/p/assets/images/images/055/684/118/large/uhkyon-si.jpg?1667506220">
+  		<img src="https://cdna.artstation.com/p/assets/images/images/061/952/042/large/uhkyon-asset.jpg?1681997874">
 	</a>
 	</td>
 
@@ -46,7 +46,7 @@ I'm a Digital Art student at [<img src="https://www.cevbarcelona.com/wp-content/
   <tr>
     <td>
 	<a href="https://www.artstation.com/artwork/BXovyl">
-  		<img src="https://cdna.artstation.com/p/assets/images/images/055/684/118/large/uhkyon-si.jpg?1667506220">
+  		<img src="https://cdna.artstation.com/p/assets/images/images/059/300/290/large/uhkyon-asset.jpg?1676061084">
 	</a>
 	</td>
 
