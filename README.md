@@ -34,7 +34,7 @@ I'm a Digital Art student at [<img src="https://www.cevbarcelona.com/wp-content/
 
 ## My work:
 
-<table style="width:100%">
+<table style="width:50%">
   <tr>
     <td>
 	<a href="https://www.artstation.com/artwork/KeR8YR">
@@ -42,7 +42,7 @@ I'm a Digital Art student at [<img src="https://www.cevbarcelona.com/wp-content/
 	</a>
 	</td>
 
-<table style="width:100%">
+<table style="width:50%">
   <tr>
     <td>
 	<a href="https://www.artstation.com/artwork/BXovyl">
@@ -50,7 +50,7 @@ I'm a Digital Art student at [<img src="https://www.cevbarcelona.com/wp-content/
 	</a>
 	</td>
 
-<table style="width:100%">
+<table style="width:50%">
   <tr>
     <td>
 	<a href="https://www.artstation.com/artwork/2qoeWv">
